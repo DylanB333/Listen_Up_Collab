@@ -1,6 +1,5 @@
 # Listen Up Collaborative
 
-![GhatGPT generated image](Resources/ChatGPT Image Mar 10, 2026 at 11_28_02 AM.png)
 
 
 ## About
