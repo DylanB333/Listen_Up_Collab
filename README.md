@@ -1,8 +1,5 @@
 # Listen Up Collaborative
 
-<img src="Resources/chatgpt_image.png" alt="ChatGPT generated image" width="300">
-
-
 ## About
 The Listen Up Collaborative uses acoustic bird monitoring to assess the effectiveness of forest restoration and habitat management across the Olympic Peninsula and Kitsap County in Washington State.
 
