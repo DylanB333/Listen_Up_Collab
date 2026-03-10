@@ -1,6 +1,7 @@
 # Listen Up Collaborative
 
-![GhatGPT generated image](Resources/chatgpt_image.png)
+<img src="Resources/chatgpt_image.png" alt="ChatGPT generated image" width="300">
+
 
 
 ## About
